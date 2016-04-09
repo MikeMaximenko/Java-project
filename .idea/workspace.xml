@@ -882,12 +882,12 @@
       <workItem from="1459932447244" duration="29256000" />
       <workItem from="1460015932453" duration="9491000" />
       <workItem from="1460201736550" duration="10517000" />
-      <workItem from="1460215664076" duration="594000" />
+      <workItem from="1460215664076" duration="705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57937000" />
+    <option name="totallyTimeSpent" value="58048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -899,7 +899,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1092,6 +1092,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1121,6 +1122,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
