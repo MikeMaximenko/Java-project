@@ -1,6 +1,9 @@
 package it.my.pack.Invert;
 
 //import it.my.pack.InterfaceInv.InterfaceInv;
+//import it.my.pack.IinterfaceOut.InterfaceOut;
+
+
 import java.util.List;
 
 
@@ -14,7 +17,7 @@ public final class  Invert {
     /**
      Default constructor.
      */
-    private Invert() {
+    public Invert() {
     }
 
     /**

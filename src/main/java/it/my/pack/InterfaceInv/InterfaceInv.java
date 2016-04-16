@@ -5,15 +5,15 @@ import java.util.List;
 
 /**
  * Defalt.
- * @param <T> of type.
+ //* @param <T> of type.
  */
-public interface InterfaceInv<T> {
+public interface InterfaceInv {
 
 
     /**
      * Output array.
      * @param list of integers.
      */
-    void func(List<T> list);
+    void func(List<?> list);
 
 }

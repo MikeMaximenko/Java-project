@@ -43,7 +43,7 @@ final class Project {
 
 
         InterfaceOut out = new OutArray(); //Interface call for output array.
-
+        //InterfaceInv inv - new Invert();
 
                 Scanner sc = new Scanner(System.in);
                 try {
